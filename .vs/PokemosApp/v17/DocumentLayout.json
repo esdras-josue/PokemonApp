@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186A15BA-6742-4D44-B605-AACF5FE4D768}|PokemosApp\\PokemosApp.csproj|c:\\users\\esdra\\desktop\\c# nivel dos\\pokemosapp\\pokemosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{186A15BA-6742-4D44-B605-AACF5FE4D768}|PokemosApp\\PokemosApp.csproj|solutionrelative:pokemosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|solutionrelative:negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016DEB0D-0863-47C7-B6E7-9D907218F312}|dominio\\dominio.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\dominio\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016DEB0D-0863-47C7-B6E7-9D907218F312}|dominio\\dominio.csproj|solutionrelative:dominio\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186A15BA-6742-4D44-B605-AACF5FE4D768}|PokemosApp\\PokemosApp.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\pokemosapp\\frmaltapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186A15BA-6742-4D44-B605-AACF5FE4D768}|PokemosApp\\PokemosApp.csproj|solutionrelative:pokemosapp\\frmaltapokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186A15BA-6742-4D44-B605-AACF5FE4D768}|PokemosApp\\PokemosApp.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\pokemosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186A15BA-6742-4D44-B605-AACF5FE4D768}|PokemosApp\\PokemosApp.csproj|solutionrelative:pokemosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016DEB0D-0863-47C7-B6E7-9D907218F312}|dominio\\dominio.csproj|C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\dominio\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016DEB0D-0863-47C7-B6E7-9D907218F312}|dominio\\dominio.csproj|solutionrelative:dominio\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAltaPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\PokemosApp\\frmAltaPokemon.cs",
+              "RelativeDocumentMoniker": "PokemosApp\\frmAltaPokemon.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\PokemosApp\\frmAltaPokemon.cs",
+              "RelativeToolTip": "PokemosApp\\frmAltaPokemon.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowFIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-28T22:52:54.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\PokemosApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PokemosApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\PokemosApp\\Form1.cs",
+              "RelativeToolTip": "PokemosApp\\Form1.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAkwJMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T23:03:26.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\dominio\\Pokemon.cs",
+              "RelativeDocumentMoniker": "dominio\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\dominio\\Pokemon.cs",
+              "RelativeToolTip": "dominio\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T21:32:03.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\negocio\\PokemonNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\PokemonNegocio.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\negocio\\PokemonNegocio.cs",
+              "RelativeToolTip": "negocio\\PokemonNegocio.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAswN0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-10T03:50:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "negocio\\AccesoDatos.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T23:12:21.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\PokemosApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PokemosApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\PokemosApp\\Form1.cs [Design]",
+              "RelativeToolTip": "PokemosApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T22:57:52.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elemento.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\dominio\\Elemento.cs",
+              "RelativeDocumentMoniker": "dominio\\Elemento.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel dos\\PokemosApp\\dominio\\Elemento.cs",
+              "RelativeToolTip": "dominio\\Elemento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T21:33:17.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

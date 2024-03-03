@@ -1,0 +1,9 @@
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\bin\Debug\negocio.dll
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\bin\Debug\negocio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\obj\Debug\negocio.dll
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\obj\Debug\negocio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\negocio\obj\Debug\negocio.csproj.Up2Date

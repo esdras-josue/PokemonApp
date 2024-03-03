@@ -1,0 +1,16 @@
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\PokemosApp.exe.config
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\PokemosApp.exe
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\PokemosApp.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.Form1.resources
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.Properties.Resources.resources
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.csproj.GenerateResource.cache
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.exe
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\negocio.dll
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\bin\Debug\negocio.pdb
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.frmAltaPokemon.resources
+C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\PokemosApp\obj\Debug\PokemosApp.csproj.Up2Date
